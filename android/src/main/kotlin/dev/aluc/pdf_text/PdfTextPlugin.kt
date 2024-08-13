@@ -1,4 +1,4 @@
-package dev.aluc.pdf_text
+package com.pexelle.pdfText
 
 
 import android.os.Handler
