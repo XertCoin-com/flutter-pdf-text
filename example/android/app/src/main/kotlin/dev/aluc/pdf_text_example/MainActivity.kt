@@ -1,4 +1,4 @@
-package dev.aluc.pdf_text_example
+package com.pexelle.pdfText_example
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
